@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="ptrContainer" targetName="ptrContainer" />
-      <config projectName="ptrContainer" targetName="epoll" />
+      <config projectName="1_Two_Sum" targetName="1_Two_Sum" />
+      <config projectName="1_Two_Sum" targetName="epoll" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -12,8 +12,34 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f6dafe-55da-461d-b9fd-f88ed36e7fe7" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/ptrContainer/cmake-build-debug/" />
+    <list default="true" id="40f6dafe-55da-461d-b9fd-f88ed36e7fe7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/1.Two Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/2. Add Two Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/smartPtr/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/cmake-build-debug/" />
+    <manually-removed-from-ignored>
+      <directory path="cmake-build-debug/" />
+      <directory path="$PROJECT_DIR$/LeetCode/1.Two Sum/cmake-build-debug/" />
+      <directory path="$PROJECT_DIR$/ptrContainer/cmake-build-debug/" />
+    </manually-removed-from-ignored>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +52,16 @@
     <session id="-891452004">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,32 +85,75 @@
     <option name="width" value="1853" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ptrContainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
               <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Two Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Two Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="2. Add Two Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="ptrContainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="ptrContainer" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
+              <item name="smartPtr" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,20 +167,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ptrContainer">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ptrContainer" RUN_TARGET_NAME="ptrContainer" EXPLICIT_BUILD_TARGET_NAME="all">
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="1_Two_Sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Two_Sum" TARGET_NAME="1_Two_Sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Two_Sum" RUN_TARGET_NAME="1_Two_Sum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ptrContainer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ptrContainer" TARGET_NAME="ptrContainer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ptrContainer" RUN_TARGET_NAME="ptrContainer">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Two_Sum" RUN_TARGET_NAME="ptrContainer" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.ptrContainer" />
+      <item itemvalue="Application.1_Two_Sum" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -126,6 +198,8 @@
       <workItem from="1531926567081" duration="40000" />
       <workItem from="1532140398618" duration="153000" />
       <workItem from="1532152173376" duration="2241000" />
+      <workItem from="1532878932463" duration="365000" />
+      <workItem from="1532879310977" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="add ptr_vector demo">
       <created>1532138689811</created>
@@ -138,12 +212,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4710000" />
+    <option name="totallyTimeSpent" value="5714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="25" width="1857" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25510767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2810602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -156,12 +230,14 @@
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32864866" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,5 +318,20 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
