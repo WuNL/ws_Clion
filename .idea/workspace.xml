@@ -2,8 +2,9 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="1_Two_Sum" targetName="1_Two_Sum" />
-      <config projectName="1_Two_Sum" targetName="epoll" />
+      <config projectName="epoll" targetName="epoll_client" />
+      <config projectName="epoll" targetName="epoll" />
+      <config projectName="epoll" targetName="epoll_server" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -12,29 +13,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f6dafe-55da-461d-b9fd-f88ed36e7fe7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/1.Two Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/1.Two Sum/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/2. Add Two Numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/main.cpp" afterDir="false" />
+    <list default="true" id="40f6dafe-55da-461d-b9fd-f88ed36e7fe7" name="Default" comment="test git">
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/.idea/Rvalue Referene.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rvalue Referene/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/smartPtr/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/LeetCode/2. Add Two Numbers/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/epoll/cmake-build-debug/" />
     <manually-removed-from-ignored>
       <directory path="cmake-build-debug/" />
       <directory path="$PROJECT_DIR$/LeetCode/1.Two Sum/cmake-build-debug/" />
@@ -52,16 +48,93 @@
     <session id="-891452004">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="1" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="4" />
+          <entry key="ObjectiveC" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/epoll/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/epoll/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ptrContainer/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smartPtr/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exceptionHandle/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ptrContainer/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,50 +166,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epoll" type="b2602c69:ProjectViewProjectNode" />
               <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epoll" type="b2602c69:ProjectViewProjectNode" />
               <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptionHandle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="1.Two Sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="1.Two Sum" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="2. Add Two Numbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epoll" type="b2602c69:ProjectViewProjectNode" />
               <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
               <item name="ptrContainer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
-              <item name="ptrContainer" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_Two_Sum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epoll" type="b2602c69:ProjectViewProjectNode" />
               <item name="ws_Clion" type="462c0819:PsiDirectoryNode" />
               <item name="smartPtr" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -144,7 +193,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +201,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,19 +216,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Build All">
-    <configuration name="1_Two_Sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Two_Sum" TARGET_NAME="1_Two_Sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Two_Sum" RUN_TARGET_NAME="1_Two_Sum">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="epoll" RUN_TARGET_NAME="epoll_client" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Two_Sum" RUN_TARGET_NAME="ptrContainer" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="epoll_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="epoll" TARGET_NAME="epoll_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="epoll" RUN_TARGET_NAME="epoll_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="epoll_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="epoll" TARGET_NAME="epoll_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="epoll" RUN_TARGET_NAME="epoll_server">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.1_Two_Sum" />
+      <item itemvalue="Application.epoll_client" />
+      <item itemvalue="Application.epoll_server" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -199,7 +253,10 @@
       <workItem from="1532140398618" duration="153000" />
       <workItem from="1532152173376" duration="2241000" />
       <workItem from="1532878932463" duration="365000" />
-      <workItem from="1532879310977" duration="384000" />
+      <workItem from="1532879310977" duration="2053000" />
+      <workItem from="1532960399755" duration="977000" />
+      <workItem from="1533050773357" duration="644000" />
+      <workItem from="1534074705580" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="add ptr_vector demo">
       <created>1532138689811</created>
@@ -208,16 +265,24 @@
       <option name="project" value="LOCAL" />
       <updated>1532138689811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test git">
+      <created>1532879726497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532879726497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5714000" />
+    <option name="totallyTimeSpent" value="9670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="25" width="1857" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2810602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29099944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,9 +294,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32864866" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50138044" side_tool="true" weight="0.32864866" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49861956" visible="true" weight="0.32864866" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49917173" weight="0.32864866" />
       <window_info anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -274,7 +339,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ptr_vector demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ptr_vector demo" />
+    <MESSAGE value="test git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/taskQueue/CMakeLists.txt">
@@ -287,9 +353,6 @@
     <entry file="file://$PROJECT_DIR$/smartPtr/main.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/smartPtr/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file:///usr/include/c++/7/bits/shared_ptr.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-76">
@@ -297,24 +360,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ptrContainer/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ptrContainer/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/epoll/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/epoll/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ptrContainer/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smartPtr/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ptrContainer/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionHandle/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
